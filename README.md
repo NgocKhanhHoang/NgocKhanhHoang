@@ -1,7 +1,6 @@
 # Hi, I'm Lilia Hoang!
 
 **AI & Business Analytics Student** at University of South Florida.
-Passionate about crafting data stories and building scalable systmes.
 
 ## 💼 Technical Skills
 **Statistical Analysis**
@@ -31,4 +30,3 @@ Passionate about crafting data stories and building scalable systmes.
 
 ## 📫 Let's Connect
 📧 Email: lililiahoang@gmail.com
-🔗 LinkedIn:www.linkedin.com/in/liliahoang
